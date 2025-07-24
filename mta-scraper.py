@@ -20,7 +20,7 @@ def mta_outage_call_timestamp(url, headers =None):
         print(f"API response status: {response.status_code}")
 
         df = pd.json_normalize(data)
-        df.to_csv(f'/Users/zoeslemmons/Desktop/MTA-elevators/outage_data/outages_{timestamp}.csv', index = False)
+        df.to_csv(f'outage_data/outages_{timestamp}.csv', index = False)
 
         return timestamp, data
 
