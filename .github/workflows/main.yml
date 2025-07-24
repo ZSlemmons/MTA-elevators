@@ -17,5 +17,5 @@ jobs:
         run: pip install requests pandas requests datetime
       - name: Run the scraping script
         run: python mta-scraper.py
-      - name: Commit and push if content changed
+    
      
