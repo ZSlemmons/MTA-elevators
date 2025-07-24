@@ -17,5 +17,17 @@ jobs:
         run: pip install requests pandas datetime
       - name: Run the scraping script
         run: python mta-scraper.py
-    
+    - name: Commit and push if content changed
+     run: |-
+      git config user.name "Automated"
+      git config user.email "actions@users.noreply.github.com"
+      git add -A
+    # Only commit if there are changes
+    if ! git diff --cached --quiet; then
+      timestamp=$(date -u)
+      git commit -m "Automated update at $timestamp"
+      git push origin main
+    else
+      echo "No changes to commit"
+    fi
      
