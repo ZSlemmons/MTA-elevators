@@ -54,7 +54,7 @@ headers = {
 }
 
 response = requests.get(
-    'https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fnyct_ene_equipments.json',
+    'https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fnyct_ene.json',
     headers=headers,
 )
 
