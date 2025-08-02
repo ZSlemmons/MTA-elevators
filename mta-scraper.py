@@ -35,7 +35,7 @@ def mta_outage_call_timestamp(url, headers =None):
     except requests.exceptions.RequestException as e:
         print(f"API call to {url} failed at: {timestamp} - Error: {e}")
 
-url = 'https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fnyct_ene_equipments.json'
+url = 'https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fnyct_ene.json'
 
 headers = {
     'accept': 'application/json, text/plain, */*',
