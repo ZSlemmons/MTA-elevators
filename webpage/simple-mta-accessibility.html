@@ -177,6 +177,107 @@
       <script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}})}();
           </script></p>
 
+      <p>Following the passage of the Americans with Disabilities Act 
+        in 1990, the MTA began the process of introducing elevators into 
+        100 of the city’s most important metro hubs. In 2022, the agency 
+        settled a class action lawsuit with disabled riders, promising to 
+        dedicate a minimum of 8% of each capital budget to accessibility 
+        upgrades. Under the terms of the settlement, the subway system is 
+        projected to achieve 95% accessibility by 2055. </p>
+
+      <p>In the meantime, accessibility remains a challenge for New Yorkers
+         with ambulatory disabilities. An analysis of a hundred randomly 
+         selected trips showed that accessible commutes were an average 
+         of nine minutes longer than regular commutes. </p>
+
+      <p>That analysis, however, included some trips that were naturally 
+        between two accessible stations, meaning the accessible commute
+         was identical to the regular one. With those trips removed from,
+         the analysis shows accessible commutes were, on average, 
+         almost 20 minutes longer. Many of the accessible commutes, 
+         however, involved taking a bus instead of, or in addition to the subway.
+         For most, no bus-less route was available. The buses however, 
+         are subject to traffic delays, particularly during peak commute times. </p>
+
+      <p>For those fortunate enough to have accessible stations on both
+         ends of their commute, the success of their trip still hinges
+         on one, notoriously fickle piece of equipment – the elevator. </p> 
+         
+      <p>This can be particularly problematic when an elevator goes out 
+         of service at one of those accessible stations. </p>
+
+      <p>An analysis of data collected over a  3-day period from 
+        Aug. 2 to Aug. 5, showed an average of 9% of elevators were 
+        out of service per day.</p>   
+
+      <p>In total, 129 individual elevators were out of service at 
+        some point during that period. Roughly a quarter of those 
+        outages were due to the Capital Replacement plan – the 
+        agency’s ongoing effort to improve accessibility. </p> 
+        
+      <p>About a third of the outages were the result of unplanned 
+        repairs or investigations. </p>  
+
+      <p>According to MTA data, since 2015, close to half of all 
+        elevator outages (47%) have been unplanned. These unplanned 
+        outages make it difficult for disabled commuters, who may arrive 
+        at their destination only to discover they can’t exit the station</p>
+        
+      <p>The duration of outages varied widely, with some issues getting 
+        resolved in a matter of hours, while others took elevators out
+         of service for days. The average turn around time for elevator
+          repairs was approximately 9 days. </p>  
+
+      <p>Elevator outages can be particularly disruptive for disabled
+         riders in neighborhoods where accessible stations are few 
+         and far between. </p>   
+      
+      <p>City wide, the average distance between accessible stations is
+         half a mile, or about 10 city blocks. That’s close to twice 
+         the distance between all subway stations – which is roughly 
+         six blocks.</p>
+
+      <p>But the distance between accessible stations varies 
+              greatly across different parts of the city, and may not 
+              align with the areas most in need of accessibility</p>  
+
+      <section id="scrolly2">
+        <div class="sticky-thing">
+<!-- Sticky Thing 1 goes below this line -->
+
+<img id="scrollyPhoto2" class="photoDiv" src="disability_map.png">
+
+<!-- Sticky Thing 1 goes above this line -->
+
+        </div>
+ 
+        <div class="scrolly-overlay">
+          <div class="step" id="step3">
+            <p>Analysis shows that areas with the highest number of
+               accessible stations, tend to have the lowest populations
+                of New Yorkers with ambulatory disability</p>
+          </div>
+          <div class="step" id="step4">
+            <p>While areas with the largest disabled populations are 
+              often underserved by accessible stations. </p>
+          </div>
+        </div>
+      </section>
+
+      <p>This discrepancy is not limited to accessible stations. 
+        The same areas are typically underserved by subway stations
+         in general. However a disproportionate percentage of accessible
+         stations are packed into Manhattan’s central business district
+          – about one in three compared to 1 in 5 subway stations overall. </p>
+
+      <p>The MTA says it’s picking up the pace on accessibility improvements.
+         According to its latest capital plan, the agency has achieved 
+         ADA compliance in 46 stations since 2020, with 43 still under 
+         construction.</p>
+
+      <p>The current budget allocates $7.1 billion to upgrade another 
+        60 stations in the coming years. For disabled New Yorkers, the 
+        changes can’t come soon enough. </p>   
 
     <script>
 
@@ -200,7 +301,13 @@
        // Entering Step Three
        d3.select("#step3").on('stepin',function(e) {
         console.log("We've arrived at STEP Three in the photo div")
-        d3.select("#scrollyPhoto").attr("src", "map4.png");
+        d3.select("#scrollyPhoto").attr("src", "low-disability.png");
+      })
+
+       // Entering Step Four
+       d3.select("#step3").on('stepin',function(e) {
+        console.log("We've arrived at STEP Three in the photo div")
+        d3.select("#scrollyPhoto").attr("src", "high-disability.png");
       })
 
     </script>
