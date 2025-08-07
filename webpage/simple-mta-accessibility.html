@@ -10,6 +10,8 @@
       h1{
         max-width: 50%;
         margin: 4rem auto 2rem auto;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
         }
       
       p{
@@ -20,6 +22,11 @@
       }
       
       #scrolly {
+        position: relative;
+        padding: 1rem;
+      }
+
+      #scrolly2 {
         position: relative;
         padding: 1rem;
       }
@@ -262,7 +269,7 @@
               often underserved by accessible stations. </p>
           </div>
         </div>
-      </section>
+        </section>
 
       <p>This discrepancy is not limited to accessible stations. 
         The same areas are typically underserved by subway stations
@@ -301,13 +308,13 @@
        // Entering Step Three
        d3.select("#step3").on('stepin',function(e) {
         console.log("We've arrived at STEP Three in the photo div")
-        d3.select("#scrollyPhoto").attr("src", "low-disability.png");
+        d3.select("#scrollyPhoto2").attr("src", "low-disability.png");
       })
 
        // Entering Step Four
-       d3.select("#step3").on('stepin',function(e) {
+       d3.select("#step4").on('stepin',function(e) {
         console.log("We've arrived at STEP Three in the photo div")
-        d3.select("#scrollyPhoto").attr("src", "high-disability.png");
+        d3.select("#scrollyPhoto2").attr("src", "high-disability.png");
       })
 
     </script>
@@ -332,6 +339,28 @@
 
 	window.addEventListener("resize", scroller.resize);
     </script>
+
+    <script>
+  const scroller2 = scrollama();
+
+  scroller2
+    .setup({
+      step: "#scrolly2 .scrolly-overlay .step",
+      offset: 0.5,
+      debug: false
+    })
+    .onStepEnter(function({ element, index, direction }) {
+      const event = new CustomEvent('stepin', { detail: { direction: direction } });
+      element.dispatchEvent(event);
+    })
+    .onStepExit(function({ element, index, direction }) {
+      const event = new CustomEvent('stepout', { detail: { direction: direction } });
+      element.dispatchEvent(event);
+    });
+
+  window.addEventListener("resize", scroller2.resize);
+</script>
+
 
 
     <!-- ai2html resizer script -->
