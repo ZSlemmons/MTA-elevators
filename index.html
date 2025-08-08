@@ -20,6 +20,14 @@
         margin: 0 auto 2rem auto;
         font-size: 19px;
       }
+      iframe,
+      video {
+          width: 100%;
+          height: 500px;
+        }
+      .full-width figure {
+            text-align: center;
+        }
       
       #scrolly {
         position: relative;
@@ -113,7 +121,15 @@
   </head>
 
   <body>
-	<h1>MTA Subway Accessibility</h1>
+	<h1>How accessible is the NYC Subway?</h1>
+
+    </div>
+    <div class="full-width">
+        <figure>
+            <video src="subway-video.MOV" preload="auto" tabindex="0" playsinline autoplay loop muted></video>
+        </figure>
+    </div>
+
 
   <p>Ask any average New Yorker and they’ll tell you that the subway is 
     the life blood of the city. With 8.5 million 
@@ -209,7 +225,14 @@
       <p>For those fortunate enough to have accessible stations on both
          ends of their commute, the success of their trip still hinges
          on one, notoriously fickle piece of equipment – the elevator. </p> 
-         
+        
+        </div>
+    <div class="full-width">
+        <figure>
+            <video src="elevator-video.MOV" preload="auto" tabindex="0" playsinline autoplay loop muted></video>
+        </figure>
+    </div>
+
       <p>This can be particularly problematic when an elevator goes out 
          of service at one of those accessible stations. </p>
 
