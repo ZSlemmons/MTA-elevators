@@ -1,0 +1,96 @@
+station,borough,trainno,equipment,equipmenttype,serving,ADA,outagedate,estimatedreturntoservice,reason,isupcomingoutage,ismaintenanceoutage
+Parkchester,,6,ES111,ES,Westchester Ave entrance to Manhattan-bound platform,N,01/05/2024 12:50:00 PM,10/31/2025 11:59:00 PM,Capital Replacement,N,N
+59 St-Columbus Circle,,A/C/B/D/1,ES251X,ES,8th Ave & 58 St (NW corner) to mezzanine for A/B/C/D & downtown 1 service and access to uptown 1,N,07/15/2024 03:06:00 PM,11/30/2025 04:00:00 PM,Repair,N,N
+59 St-Columbus Circle,,A/C/B/D/1,ES250X,ES,A/B/C/D mezzanine to 8th Ave & 58 St (NW corner),N,07/15/2024 03:06:00 PM,11/30/2025 04:00:00 PM,Repair,N,N
+Smith-9 Sts,,F/G,ES348,ES,9th St & Smith St (NE corner) to intermediate mezzanine,N,09/09/2024 10:00:00 PM,12/31/2025 11:59:00 PM,Capital Replacement,N,N
+61 St-Woodside,,7/LIRR,ES448,ES,61 St & Roosevelt Ave (SE corner) to mezzanine,N,09/30/2024 12:05:00 PM,10/31/2025 11:59:00 PM,Capital Replacement,N,N
+42St/Port Authority-Bus Terminal,,A/C/E/N/Q/R/W/1/2/3/7/S,EL290X,EL,intermediate landing to mezzanine for A/C/E service in both directions,Y,10/28/2024 06:26:00 AM,12/31/2025 10:00:00 PM,Repair,N,N
+161 St-Yankee Stadium,,B/D/4,EL131,EL,161 St & River Ave (NE corner) to mezzanine to reach 4/B/D service in both directions,Y,11/04/2024 08:25:00 AM,01/01/2026 11:59:00 PM,Capital Replacement,N,N
+161 St-Yankee Stadium,,B/D/4,EL134,EL,mezzanine to Manhattan-bound B/D platform,Y,11/06/2024 08:08:00 AM,01/01/2026 11:59:00 PM,Capital Replacement,N,N
+161 St-Yankee Stadium,,B/D/4,EL135,EL,mezzanine to B/D platform for Bedford Pk Blvd and Norwood 205 St-bound service,Y,11/06/2024 08:40:00 AM,01/01/2026 11:59:00 PM,Capital Replacement,N,N
+161 St-Yankee Stadium,,B/D/4,EL133,EL,mezzanine to Manhattan-bound 4 platform,Y,11/06/2024 09:00:00 AM,12/31/2025 11:59:00 PM,Capital Replacement,N,N
+161 St-Yankee Stadium,,B/D/4,EL132,EL,B/D mezzanine to Woodlawn-bound 4 platform and mezzanine for Manhattan-bound 4 service,Y,11/06/2024 09:00:00 AM,12/31/2025 11:59:00 PM,Capital Replacement,N,N
+Lexington Av/63 St,,F/Q,ES401,ES,Lexington Ave & 63 St (NW corner) to upper mezzanine,N,12/11/2024 11:00:00 PM,10/31/2025 11:59:00 PM,Capital Replacement,N,N
+Lexington Av/63 St,,F/Q,ES407,ES,lower mezzanine (Lexington Ave & 63 St) to downtown platform,N,12/11/2024 11:00:00 PM,10/31/2025 11:59:00 PM,Capital Replacement,N,N
+Lexington Av/63 St,,F/Q,ES405,ES,intermediate mezzanine (Lexington Ave & 63 St) to lower mezzanine,N,12/11/2024 11:00:00 PM,10/31/2025 11:59:00 PM,Capital Replacement,N,N
+Lexington Av/63 St,,F/Q,ES402,ES,upper mezzanine to Lexington Ave & 63 St (NW corner),N,12/11/2024 11:00:00 PM,10/31/2025 11:59:00 PM,Capital Replacement,N,N
+Franklin Av,,C/S,ES352,ES,Fulton St & Franklin Ave entrance to S platform for Prospect Park-bound service,N,12/12/2024 10:00:00 PM,10/31/2025 11:59:00 PM,Capital Replacement,N,N
+Park Place,,A/C/E/R/W/2/3,ES301,ES,2/3 platform to mezzanine for Park Pl & Broadway exit,N,12/19/2024 10:20:00 PM,10/31/2025 11:59:00 PM,Capital Replacement,N,N
+W 4 St-Wash Sq,,A/C/E/B/D/F/M,EL333,EL,W 3rd St & 6th Ave (NE corner) to mezzanine for A/C/E service and access to B/D/F/M service,Y,01/17/2025 12:00:00 AM,10/31/2025 11:59:00 PM,Capital Replacement,N,N
+Smith-9 Sts,,F/G,ES349,ES,intermediate mezzanine to upper mezzanine,N,02/10/2025 11:33:00 AM,12/31/2025 11:59:00 PM,Capital Replacement,N,N
+Lexington Av/63 St,,F/Q,ES403,ES,upper mezzanine (Lexington Ave & 63 St) to intermediate mezzanine,N,02/11/2025 10:00:00 PM,10/31/2025 11:59:00 PM,Capital Replacement,N,N
+59 St,,N/R/W/4/5/6,ES214,ES,N/R/W transfer mezzanine to downtown 6 platform,N,02/22/2025 06:30:00 PM,10/22/2025 06:30:00 PM,Rehabilitation,N,N
+Fordham Rd,,4,EL188,EL,mezzanine to Manhattan-bound platform,Y,03/03/2025 10:00:00 PM,10/31/2025 11:59:00 PM,Capital Replacement,N,N
+Fordham Rd,,4,EL186,EL,Jerome Ave & Fordham Rd (SE corner) to mezzanine for service in both directions,Y,03/04/2025 12:00:00 AM,10/31/2025 11:59:00 PM,Capital Replacement,N,N
+Fordham Rd,,4,EL187,EL,mezzanine to Woodlawn-bound platform,Y,03/04/2025 12:20:00 AM,10/31/2025 11:59:00 PM,Capital Replacement,N,N
+Coney Island-Stillwell Av,,D/F/N/Q,EL702,EL,D platform to overpass for access to mezzanine via N platform,Y,03/25/2025 12:52:00 AM,11/26/2025 11:59:00 PM,Capital Replacement,N,N
+5 Av/53 St,,E/M,ES239,ES,downtown platform to mezzanine for 5th Ave & 53 St exit,N,03/28/2025 11:45:00 PM,11/30/2025 11:59:00 PM,Capital Replacement,N,N
+21 St-Queensbridge,,F,ES423,ES,mezzanine to Manhattan-bound platform,N,04/21/2025 10:20:00 PM,12/31/2025 11:59:00 PM,Capital Replacement,N,N
+21 St-Queensbridge,,F,ES424,ES,Manhattan-bound platform to mezzanine,N,04/21/2025 10:20:00 PM,12/31/2025 11:59:00 PM,Capital Replacement,N,N
+Atlantic Av-Barclays Ctr,,B/D/N/Q/R/2/3/4/5/LIRR,EL304,EL,Brooklyn-bound 2/3 platform to mezzanine for access to rest of complex,Y,04/24/2025 11:40:00 PM,11/15/2025 12:00:00 AM,Capital Replacement,N,N
+Atlantic Av-Barclays Ctr,,B/D/N/Q/R/2/3/4/5/LIRR,EL305,EL,mezzanine to 4/5 platform for service in both directions,Y,04/24/2025 11:40:00 PM,11/15/2025 12:00:00 AM,Capital Replacement,N,N
+DeKalb Av,,B/Q/R,EL371,EL,mezzanine to Manhattan-bound platform,Y,05/01/2025 10:30:00 PM,11/12/2025 12:00:00 AM,Capital Replacement,N,N
+DeKalb Av,,B/Q/R,EL370,EL,Dekalb Ave & Flatbush Ave (SW corner) and mezzanine for service in both directions,Y,05/01/2025 10:45:00 PM,11/12/2025 12:00:00 AM,Capital Replacement,N,N
+DeKalb Av,,B/Q/R,EL372,EL,"mezzanine to Brighton Beach, Coney Island, and Bay Ridge-bound platform",Y,05/01/2025 11:00:00 PM,11/12/2025 12:00:00 AM,Capital Replacement,N,N
+14 St,,A/C/E/L,EL223,EL,mezzanine to uptown A/C/E platform,Y,05/20/2025 11:10:00 PM,11/03/2025 12:00:00 AM,Capital Replacement,N,N
+34 St-Penn Station,,A/C/E,EL225,EL,34 St & 8th Ave (SE corner) to uptown C/E platform and access to rest of complex,Y,05/21/2025 12:10:00 AM,12/31/2025 12:00:00 AM,Capital Replacement,N,N
+34 St-Penn Station,,A/C/E,EL226,EL,uptown C/E platform to lower mezzanine for access to Penn Station concourse and rest of complex,Y,05/21/2025 01:05:00 AM,12/31/2025 12:00:00 AM,Capital Replacement,N,N
+145 St,,A/C/B/D,ES115,ES,uptown B/D platform to mezzanine for 147 St & St Nicholas Av exit,N,06/17/2025 12:20:00 AM,01/31/2026 11:00:00 PM,Capital Replacement,N,N
+Times Sq-42 St,,A/C/E/N/Q/R/W/1/2/3/7/S,EL229,EL,mezzanine to downtown N/Q/R/W platform,Y,06/20/2025 10:00:00 AM,12/31/2025 11:59:00 PM,Capital Replacement,N,N
+125 St,,A/C/B/D,EL144,EL,mezzanine to uptown platform,Y,07/01/2025 11:50:00 PM,12/31/2025 11:59:00 PM,Capital Replacement,N,N
+21 St-Queensbridge,,F,ES426,ES,Jamaica 179 St-bound platform to mezzanine,N,08/07/2025 08:36:00 AM,02/28/2026 11:00:00 PM,Capital Replacement,N,N
+21 St-Queensbridge,,F,ES425,ES,mezzanine to Jamaica 179 St-bound platform,N,08/07/2025 08:36:00 AM,02/28/2026 11:00:00 PM,Capital Replacement,N,N
+High St,,A/C,ES350,ES,lower mezzanine to upper mezzanine for Cadman Plaza West & Middagh St exit,N,08/11/2025 10:15:00 PM,05/11/2026 10:00:00 PM,Capital Replacement,N,N
+Lexington Av/53 St,,E/M/6,EL245,EL,mezzanine to E/M platform for service in both directions,Y,09/09/2025 12:15:00 AM,01/31/2026 11:00:00 PM,Capital Replacement,N,N
+Canal St,,J/N/Q/R/W/6/Z,EL325,EL,Canal St & Lafayette St (NE corner) to downtown 6 platform,Y,09/16/2025 01:30:00 AM,04/16/2026 11:59:00 PM,Capital Replacement,N,N
+14 St-Union Sq,,L/N/Q/R/W/4/5/6,EL217,EL,4th Ave & 14 St (NE corner) to mezzanine for L/N/Q/R/W service in both directions,Y,09/30/2025 09:42:00 AM,03/31/2026 11:59:00 PM,Capital Replacement,N,N
+14 St-Union Sq,,L/N/Q/R/W/4/5/6,EL218,EL,mezzanine to L platform for service in both directions,Y,09/30/2025 10:45:00 AM,03/31/2026 11:59:00 PM,Capital Replacement,N,N
+Church Av,,2/5,EL321,EL,Nostrand Ave & Church Ave (SW corner) to Flatbush Av Brooklyn College-bound platform,Y,10/06/2025 10:24:00 PM,05/31/2026 11:59:00 PM,Capital Replacement,N,N
+86 St,,Q,ES280,ES,upper mezzanine (86 St & 2nd Ave) to lower mezzanine,N,10/07/2025 11:15:00 AM,10/21/2025 02:00:00 PM,Planned Work,N,N
+Cortlandt St,,A/C/E/R/W/2/3,EL22X,EL,Church St to South Concourse balcony and mezzanine for downtown R/W service,Y,10/07/2025 04:15:00 PM,10/16/2025 06:00:00 PM,Repair,N,N
+34 St-Penn Station,,1/2/3/LIRR,EL34X,EL,LIRR entrance - south side of 34 St (west of 7th Ave) to Penn Station concourse for service in both directions on all lines,Y,10/08/2025 04:12:00 AM,10/16/2025 05:00:00 AM,Repair,N,N
+World Trade Center,,A/C/E/R/W/2/3,EL23X,EL,"Church St to E line with access to downtown R/W, balcony & Oculus main level",Y,10/12/2025 07:00:00 PM,10/16/2025 07:10:00 PM,Repair,N,N
+3 Av-149 St,,2/5,EL130,EL,Melrose Ave & 149 St (NW corner) to Manhattan-bound platform,Y,10/13/2025 01:29:00 AM,10/15/2025 11:00:00 PM,Under Investigation,N,N
+61 St-Woodside,,7/LIRR,EL415X,EL,Roosevelt Ave & 61 St (NE corner) to mezzanine for LIRR and 7 service in both directions,Y,10/13/2025 01:21:00 PM,10/16/2025 02:00:00 PM,Repair,N,N
+Cortlandt St,,A/C/E/R/W/2/3,EL18X,EL,Church St to mezzanine for downtown R/W service,Y,10/13/2025 03:40:00 PM,10/16/2025 05:00:00 PM,Repair,N,N
+Lexington Av/53 St,,E/M/6,ES254X,ES,E/M platform to mezzanine for 6 service and 53 St & Lexington Ave exit,N,10/14/2025 06:49:00 AM,10/16/2025 07:00:00 AM,Repair,N,N
+Pelham Pkwy,,2/5,EL138,EL,mezzanine to Wakefield 241 St-bound platform,Y,10/14/2025 08:15:00 AM,10/25/2025 04:00:00 PM,Planned Work,N,N
+Cortlandt St,,A/C/E/R/W/2/3,EL17X,EL,"Oculus main level to Fulton Center level, balcony, and mezzanine for downtown R/W service",Y,10/14/2025 04:00:00 PM,10/16/2025 04:00:00 PM,Repair,N,N
+Pelham Bay Park,,6,EL121,EL,Amendola Plaza entrance (adjacent to Bruckner Expwy) to mezzanine for Manhattan-bound service,Y,10/14/2025 06:04:00 PM,10/16/2025 06:00:00 AM,Repair,N,N
+Far Rockaway-Mott Av,,A,EL497,EL,Beach 22nd & Mott Ave to platform for Manhattan-bound service,Y,10/14/2025 11:15:00 PM,10/15/2025 06:17:00 AM,Maintenance,N,N
+168 St,,A/C/1,EL141,EL,mezzanine to downtown A/C platform,Y,10/14/2025 11:15:00 PM,10/15/2025 06:00:00 AM,Maintenance,N,N
+34 St-Hudson Yards,,7,EL601,EL,upper mezzanine to lower mezzanine for Flushing Main St-bound service,Y,10/14/2025 11:18:00 PM,10/15/2025 06:00:00 AM,Maintenance,N,N
+Kingsbridge Rd,,B/D,EL191,EL,mezzanine to Manhattan-bound platform,Y,10/14/2025 11:20:00 PM,10/15/2025 06:21:00 AM,Maintenance,N,N
+Inwood-207 St,,A,EL148,EL,207 St & Broadway (NW corner) to mezzanine for Downtown and Brooklyn-bound service.,Y,10/14/2025 11:20:00 PM,10/15/2025 06:00:00 AM,Maintenance,N,N
+E 180 St,,2/5,EL160,EL,Morris Park Ave & E 180 St to Manhattan-bound platform,Y,10/14/2025 11:20:00 PM,10/15/2025 06:00:00 AM,Maintenance,N,N
+Myrtle-Wyckoff Avs,,M/L,EL397,EL,mezzanine to L platform for service in both directions,Y,10/14/2025 11:25:00 PM,10/15/2025 06:00:00 AM,Inspection,N,N
+Times Sq-42 St,,A/C/E/N/Q/R/W/1/2/3/7/S,EL233,EL,mezzanine to uptown 1/2/3 platform,Y,10/14/2025 11:35:00 PM,10/15/2025 06:00:00 AM,Maintenance,N,N
+Grand Central-42 St,,4/5/6/7/S,EL244,EL,mezzanine to 7 platform for service in both directions,Y,10/14/2025 11:35:00 PM,10/15/2025 06:00:00 AM,Maintenance,N,N
+Tremont Av,,B/D,EL511,EL,Mezzanine to Norwood-205 St-bound platform.,Y,10/14/2025 11:35:00 PM,10/15/2025 05:39:00 AM,Maintenance,N,N
+Borough Hall,,R/2/3/4/5,EL318,EL,mezzanine to platforms for 2/3 service in both directions and access to Manhattan-bound 4/5 service via Manhattan-bound 2/3 platform,Y,10/14/2025 11:40:00 PM,10/15/2025 06:00:00 AM,Maintenance,N,N
+47-50 Sts-Rockefeller Ctr,,B/D/F/M,EL234,EL,49 St & 6th Ave (NW corner) to mezzanine for service in both directions,Y,10/14/2025 11:40:00 PM,10/15/2025 05:46:00 AM,Repair,N,N
+34 St-Herald Sq,,B/D/F/M/N/Q/R/W,ES229,ES,N/Q/R/W mezzanine to uptown B/D/F/M platform,N,10/14/2025 11:45:00 PM,10/15/2025 06:00:00 AM,Inspection,N,N
+34 St-Hudson Yards,,7,ES626,ES,Hudson Blvd E (between 33 St & 34 St) to upper mezzanine,N,10/14/2025 11:57:00 PM,10/15/2025 05:00:00 AM,Cleaning,N,N
+Fulton St,,A/C/J/2/3/4/5/Z,EL719,EL,mezzanine (Nassau St) and Broad St-bound J/Z to A/C platform for service in both directions and access to rest of complex,Y,10/15/2025 12:05:00 AM,10/15/2025 05:34:00 AM,Maintenance,N,N
+34 St-Herald Sq,,B/D/F/M/N/Q/R/W,EL212,EL,"mezzanine to uptown N/Q/R/W platform
+",Y,10/15/2025 12:05:00 AM,10/15/2025 06:00:00 AM,Maintenance,N,N
+Greenpoint Av,,G,EL765,EL,Mezzanine to Church Av-bound platform,Y,10/15/2025 12:20:00 AM,10/15/2025 06:00:00 AM,Maintenance,N,N
+Bleecker St,,B/D/F/M/6,EL329,EL,downtown 6 mezzanine to uptown B/D/F/M platform,Y,10/15/2025 12:25:00 AM,10/15/2025 06:00:00 AM,Maintenance,N,N
+Myrtle-Wyckoff Avs,,M/L,ES332,ES,L lower mezzanine to upper mezzanine for M service,N,10/15/2025 12:25:00 AM,10/15/2025 06:00:00 AM,Maintenance,N,N
+Fulton St,,A/C/J/2/3/4/5/Z,ES367,ES,2/3 mezzanine (William St & Fulton St) to transfer mezzanine for A/C & Broad St-bound J/Z service and access to rest of complex,N,10/15/2025 12:30:00 AM,10/15/2025 06:00:00 AM,Maintenance,N,N
+Church Av,,F/G,EL374,EL,mezzanine to platform for Manhattan-bound F and Queens-bound G service,Y,10/15/2025 12:40:00 AM,10/15/2025 06:00:00 AM,Maintenance,N,N
+New Dorp,,,EL788,EL,Near SW corner of New Dorp Ln and New Dorp Plaza for access to St. George-bound platform.,Y,10/15/2025 02:06:00 AM,10/15/2025 06:00:00 AM,Maintenance,N,N
+Grand Central-42 St,,4/5/6/7/S,EL204,EL,42 St (between Park Ave & Lexington Ave) to mezzanine for 4/5/6/7 service in both directions,Y,10/15/2025 02:50:00 AM,10/15/2025 05:56:00 AM,Maintenance,N,N
+Times Sq-42 St,,A/C/E/N/Q/R/W/1/2/3/7/S,ES218,ES,7 platform to upper mezzanine for 41 St & 7 Ave exit and access to rest of complex,N,10/15/2025 03:00:00 AM,10/15/2025 05:00:00 AM,Cleaning,N,N
+7 Av,,F/G,EL784,EL,Mezzanine to Church Av-bound platform,Y,10/15/2025 03:47:00 AM,10/16/2025 03:56:00 AM,Under Investigation,N,N
+86 St,,Q,ES282,ES,86 St & 2nd Ave (NE corner) to upper mezzanine,N,10/15/2025 08:00:00 AM,10/15/2025 02:00:00 PM,Planned Work,Y,N
+86 St,,Q,ES280,ES,upper mezzanine (86 St & 2nd Ave) to lower mezzanine,N,10/15/2025 08:00:00 AM,10/15/2025 02:00:00 PM,Planned Work,Y,N
+Grand St,,L,EL785,EL,Street (NE corner of Bushwick Avenue and Grand Street) to 8 Ave-bound platform,Y,10/15/2025 10:00:00 PM,10/16/2025 06:00:00 AM,Maintenance,Y,N
+Grand St,,L,EL786,EL,Street (NW corner of Bushwick Ave and Grand St) to Canarsie-Rockaway Pkwy-bound platform,Y,10/15/2025 10:00:00 PM,10/16/2025 06:00:00 AM,Maintenance,Y,N
+Myrtle-Wyckoff Avs,,M/L,EL396,EL,Gates Ave & Wyckoff Ave (SE corner) to mezzanines for L and M service in both directions,Y,10/17/2025 10:00:00 PM,10/20/2025 05:00:00 AM,Planned Work,Y,N
+W 4 St-Wash Sq,,A/C/E/B/D/F/M,EL335,EL,uptown A/C/E platform to transfer mezzanine and uptown B/D/F/M platform,Y,10/20/2025 10:00:00 PM,03/31/2026 11:59:00 PM,Capital Replacement,Y,N
+Flushing-Main St,,7,EL414,EL,East of Main St & Roosevelt Ave to Manhattan-bound platform,Y,10/20/2025 10:00:00 PM,05/31/2026 11:59:00 PM,Capital Replacement,Y,N
+Jackson Hts-Roosevelt Av,,E/F/M/R/7,EL422,EL,mezzanine to Forest Hills and Jamaica-bound E/F/M/R platform,Y,10/28/2025 10:00:00 PM,06/30/2026 11:59:00 PM,Capital Replacement,Y,N
+Jackson Hts-Roosevelt Av,,E/F/M/R/7,EL421,EL,transfer mezzanine to Manhattan-bound E/F/M/R platform and mezzanine for access to Queens-bound E/F/M/R service,Y,10/28/2025 10:00:00 PM,06/30/2026 11:59:00 PM,Capital Replacement,Y,N
+72 St,,1/2/3,EL239,EL,Broadway (between 72 St & 73 St) to uptown platform,Y,11/17/2025 10:00:00 PM,05/31/2026 11:59:00 PM,Capital Replacement,Y,N
+72 St,,1/2/3,EL240,EL,Broadway (between 72 St & 73 St) to downtown platform,Y,11/17/2025 10:00:00 PM,05/31/2026 11:59:00 PM,Capital Replacement,Y,N
